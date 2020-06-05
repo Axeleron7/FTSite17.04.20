@@ -48,9 +48,10 @@ div.telegram {
 }
 
 .navbar {
-    background-color: azure;
+
     padding: 0;
     height: 50px;
+
 }
 
 .content {
@@ -73,7 +74,7 @@ div.telegram {
 }
 
 .navbut {
-    width: 200px;
+    width: 140px;
     border-radius: 10px;
     height: 44px;
     margin-top: 1px;
@@ -159,5 +160,10 @@ table, tr, td {
 
     text-align: left;
     padding: 5px;
+}
+
+.search{
+    width: 300px;
+
 }
 
